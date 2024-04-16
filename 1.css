@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  header {
+    background-color:black;
+    color:white;
+    padding: 20px 0;
+  }
+  header img {
+    width: 190px; /* Adjust the width of your photo */
+    border-radius: 50%; /* Makes the image round */
+    margin-bottom: 10px;}
+  
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  
+  nav ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+    
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: red;
+    text-decoration: none;
+  }
+  .li:hover:hover {
+    /* Define the styles to be applied on hover */
+    /* For example, change background color and increase font size */
+    color:color(srgb red green blue);}
+  
+  section {
+    padding: 40px 0;
+    background-color: aqua;
+  }
+  
+  
+  
+  section h2 {
+    margin-top: 0;
+    color: chocolate;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  

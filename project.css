@@ -1,0 +1,23 @@
+body {
+    background-image: url('./2.webp');
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Center the background image */
+    color: #fff; /* Set text color for better contrast */
+    padding: 80px 0; /* Adjust padding as needed */
+    
+  }
+  
+  
+  section h2 {
+    color: chocolate;
+  }
+  section h3{
+    color:red;
+  }
+  .back{
+
+    padding-top: 250px;}
+
+   .back :hover {
+    color:red;
+   }

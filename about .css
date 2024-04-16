@@ -1,0 +1,26 @@
+
+  body {
+    background-image: url('me.png');
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Center the background image */
+    color: greenyellow; /* Set text color for better contrast */
+    padding: 80px 0; /* Adjust padding as needed */
+    background-image: -moz-element();
+    
+  }
+  
+  
+  section h2 {
+    color: chocolate;
+    text-align: center;
+  }
+
+  section p {
+    color:whitesmoke;
+    text size: 40px;
+
+  }
+   section h5{
+    color: blueviolet;
+    
+   }
